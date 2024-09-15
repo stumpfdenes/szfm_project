@@ -2,57 +2,22 @@
 
 
 ## Jelenlegi helyzet
-
+Feladatok papír alapú nyomonkövetése.
+Minden dolgozó papírcetliken követi nyomon a saját teendőit, így bonyolult elválasztani a
+hozzárendelt, folyamatban lévő, és kész feladatokat, 
+illetve a feladatok összesített haladását.
+A papírokat könnyen elvesztik a dolgozók, így plusz idő- és pénzveszteséggel jár azok pótlása.
+Igény van a munkahelyi teendők melletti személyes szokások naplózására és nyomonkövetésére is a
+dolgozók személyes fejlődésének elősegítésére, amire jelenleg nincs egy összehangolt módszer,
+mindenki a maga módján végzi ezt.
+A papírcetlik hozzárendelése és mozgatása kevés motivációt ad a munkásoknak.
 
 ## Vágyálom rendszer
-
 
 ## Jelenlegi üzleti folyamatok
 
 
 ## Igényelt üzleti folyamatok
-
-- Dolgozói és adminisztrátori belépés
-    - felhasználó hitelesítése
-
-### Adminisztrátor által elérhető funkciók
-- Minden dolgozó kilistázása és profilok megnézése
-    - dolgozó statisztikáinak megjelenítése
-- Minden feladat kilistázása
-    - feladatok szűrése dátum, dolgozó és státusz alapján
-- Feladatok létrehozása => név, határidő megadása
-- Dolgozók feladathoz rendelése
-- Feladatok módosítása
-- Feladatok törlése
-
-### Dolgozó által elérhető funkciók
-- Saját feladatok megjelenítése
-- Statisztika az eddig elvégzett feladatokról egy külön felületen
-- Naptár nézet => jelenleg kiadott feladatok határidejének megjelenítése
-- Feladatok szűrése: dolgozó nevének megadása vagy időpont alapján
-- Értesítés, ha új feladatot írtak ki => a weboldalon egy felugró üzenet
-- Saját profil módosítása
-
-### Beállítások
-- Weboldal témájának módosítása
-- Értesítések be- és kikapcsolása
-    - Határidő közel van
-    - Új feladat kiírva
-- Profil megjelenítésének módosítása
-
-### Statisztika
-- Elvégzett feladatok száma
-- Átlag fennmaradó idő
-
-### Naptár nézet
-- Feladatok listázása napi/heti bontásban
-- Határidős/lejárt feladatok megjelenítése külön színnel
-- Megjelenített időtartam módosítása
-
-### Feladat képernyő
-- Feladat adatainak megjelenítése
-- Létrehozó és utolsó módosítás megjelenítése
-- Megjelölés készként gomb
 
 
 ## A rendszerre vonatkozó szabályok
